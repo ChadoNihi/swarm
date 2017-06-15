@@ -1,0 +1,6 @@
+ - [Phoenix 1.3 and GraphQL via Absinthe](https://seanclayton.me/post/phoenix-1-3-and-graphql-with-absinthe/?utm_campaign=elixir_radar_93&utm_medium=email&utm_source=RD+Station)
+ - [an SPA with Phoenix 1.2 and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/)
+ - [Collaborative Music with Elm and Phoenix](https://www.youtube.com/watch?v=0OTPTNJji1I)
+ - [RemoteData type](http://package.elm-lang.org/packages/ohanhi/remotedata-http/latest)
+ - [Elm in Production: Surprises & Pain Points | Youtube](https://youtu.be/LZj_1qVURL0)
+ - (Elm Conduit SPA)[https://github.com/pdamoc/elm-conduit]
