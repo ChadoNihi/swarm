@@ -6,7 +6,7 @@ The app would allow users to exercise a universalist suffering-focused ethic, a 
 
 In terms of _initial_ functionality it would notify users of others' crises (from individual tragedies to famines), provide means of proposing and voting for solutions, collaborative thinking ('resolving cognitive dissonances') and having other discussions ('mind wandering'); and facilitate sharing and exchange of resources.
 
-Ultimately, Swarm would cultivate a culture where suffering of others is disvalued as one's own.
+Ultimately, Swarm would cultivate a "[hive-mind](https://youtu.be/N1h5fkTHH6M)" culture where suffering of others is disvalued as one's own.
 Swarm would help aspiring effective altruists to fight their akrasia.
 
 (At the current level of technology, the "swarm" solution should already be developed as a brain-to-brain interface. The app would be just an inadequate substitute, at best a mean to promote the swarm solution to indifferent and ineffective society.)
